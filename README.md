@@ -49,6 +49,7 @@ Usage:
 Example Output:
 
 Enter the main Ingredient of the recipe (Ex: Chicken, Pasta etc.): chicken
+
 Enter the number of recipes you would like to view: 3
 
 <hr/>
