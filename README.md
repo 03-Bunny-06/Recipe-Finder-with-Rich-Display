@@ -52,9 +52,12 @@ Enter the main Ingredient of the recipe (Ex: Chicken, Pasta etc.): chicken
 
 Enter the number of recipes you would like to view: 3
 
+![image](https://github.com/user-attachments/assets/01abc74f-ca3c-4043-99d3-0a40e46ba2fa)
+
 <hr/>
 
 Notes:
 
 * Ensure the API key is valid; otherwise, the script will not retrieve data.
 * The script uses rich to enhance the terminal display; ensure your terminal supports rich formatting.
+
