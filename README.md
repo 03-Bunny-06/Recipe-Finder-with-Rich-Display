@@ -51,14 +51,6 @@ This Python script allows users to fetch and display recipe details based on a m
 Enter the main Ingredient of the recipe (Ex: Chicken, Pasta etc.): chicken
 
 Enter the number of recipes you would like to view: 15
-
-
-
-Enter the main Ingredient of the recipe (Ex: Chicken, Pasta etc.): pasta
-
-Enter the number of recipes you would like to view: 10
-
-![image](https://github.com/user-attachments/assets/01abc74f-ca3c-4043-99d3-0a40e46ba2fa)
 ```
 
 ![image](https://github.com/user-attachments/assets/28960b62-e760-434f-be49-d26c355e6fb0)
