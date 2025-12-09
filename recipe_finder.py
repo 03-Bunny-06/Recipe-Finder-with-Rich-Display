@@ -8,7 +8,7 @@ from rich.box import SQUARE_DOUBLE_HEAD
 console = Console()
 
 BASE_URL = "https://api.spoonacular.com/recipes/complexSearch"
-API_KEY = "e249fc7f174b48388e56e8122954e4f8"
+API_KEY = apikey
 RECIPE_INFO = "true"
 
 def recipe(main_item, number):
@@ -58,4 +58,5 @@ if res:
         dis = dis.upper()
 
         table.add_row(new_recipe['title'], cus, dis[:-1], f'{new_recipe['readyInMinutes']} min', str(new_recipe['servings']), str(new_recipe['glutenFree']), f'{new_recipe['healthScore']}/100')
+
     console.print(table)
